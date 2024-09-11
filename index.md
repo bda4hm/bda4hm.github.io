@@ -3,28 +3,8 @@ layout: default
 ---
 ## Big Data Analytics for Health and Medicine (BDA4HM 2023) 
 
-### A Workshop at 2023 IEEE International Conference on Big Data [(IEEE Big Data 2023)](http://bigdataieee.org/BigData2023/)
-December 15th - 18th, 2023, Sorrento, Italy
-
-## Final Programme
-
-
-| Time             | Title                     | Authors        |
-|------------------|---------------------------|----------------|
-| 14\:00 - 14\:05  | Welcome                   | Chairs         |
-| 14\:05 - 14:25   | Data Poisoning Attacks over Diabetic Retinopathy Images Classification | Marcello Di Giammarco, Francesco Mercaldo, Antonella Santone, and Fabio Martinelli |
-| 14\:25 - 14:45   | Towards automatic identification of self-reported COVID-19 tweets: Introducing a multilingual manually annotated dataset, baseline systems and exploratory evaluations | Ramya Tekumalla, Luis Alberto Robles Hernandez, and Juan Banda |
-| 14\:45 - 15:05   | A Novel Ensemble-Based Framework for Feature Identification and Classification of COVID-19 Electronic Health Record Data | Asmita Mahajan and Durga Toshniwal | 
-| 15\:05 - 15:25   | Forecasting COVID-19 Hotspots in Florida Public Schools: A Machine Learning Approach for Informed Decision-Making | Mingming Peng, Hongmei Chi, and Askal Ali |
-| 15\:25 - 15:45   | Enhancing Vocal-Based Laryngeal Cancer Screening with Additional Patient Information and Voice Signal Embedding | Jaemin Song, Yong Oh Lee, Seho Park, Youn Kyu Lee, Hansang Park, and Hyun- Bum Kim |
-| 15\:45 - 16:05   | Recent Artificial Intelligence Advances in Detection and Diagnosis of Sickle Cell Disease: A review | Abdourahmane Balde, Avewe Bassene, Lamine Faty, Mamadou Soumboundou, Ousmane Sall, and Youssou Faye |
-| 16\:05 - 16:20   | Coffee Break              |                |
-| 16\:20 - 16:40   | Exploring the Value of Pre-trained Language Models for Clinical Named Entity Recognition | Samuel Belkadi, Lifeng Han, Yuping Wu, and Goran Nenadic | 
-| 16\:40 - 17:00   | Interpretable and robust hospital readmission predictions from Electronic Health Records | Hugo Calero, Rebeen Hamad, Christian Atallah, John Casement, Dexter Canoy, Nick Reynolds, Michael Barnes, Paolo Missier, and The AI-MULTIPLY Consortium |
-| 17\:00 - 17:20   | NCL-SM: A Fully Annotated Dataset of Images from Human Skeletal Muscle Biopsies | Atif Khan, Conor Lawless, Amy Vincent, Charlotte Warren, Valeria Di Leo, Tiago Gomes, and A. Stephen McGough |
-| 17\:20 - 17:40   | How much data do I need? A case study on medical data | Ayse Betul Cengiz and Andrew Stephen McGough |
-| 17\:40 - 18:00   | Graph Encoding-Enhanced Transformer for Drug Recommendation | Xunsheng Cai, Syauki Thamrin, and Arbee Chen |
-| 18\:00 - 18:10   | Closing Remarks           |                |
+### A Workshop at 2024 IEEE International Conference on Big Data [(IEEE Big Data 2024)](http://bigdataieee.org/BigData2024/)
+December 15th - 18th, 2024, Washington DC, USA
 
 ## Outline
 
@@ -94,10 +74,10 @@ Please note that the authors of each submitted paper will be expected to review 
 ### Important Dates (All dates now firm)
 
 |-------|-------------------|
-| please contact us | Due date for full workshop papers submission |
-| Nov 1, 2023 |  Notification of paper acceptance to authors |
-| Nov 20,2023 | Camera-ready of accepted papers |
-| Dec 15-18 2022 | Workshop (one day of) |
+| Oct 1, 2024 | Due date for full workshop papers submission |
+| Nov 1, 2024 |  Notification of paper acceptance to authors |
+| Nov 20,2024 | Camera-ready of accepted papers |
+| Dec 15-18 2024 | Workshop (one day of) |
 
 ### Workshop Program Co-Chairs
 
