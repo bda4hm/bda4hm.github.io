@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-## Big Data Analytics for Health and Medicine (BDA4HM 2023) 
+## Big Data Analytics for Health and Medicine (BDA4HM 2024) 
 
 ### A Workshop at 2024 IEEE International Conference on Big Data [(IEEE Big Data 2024)](http://bigdataieee.org/BigData2024/)
 December 15th - 18th, 2024, Washington DC, USA
