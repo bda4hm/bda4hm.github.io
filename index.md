@@ -6,6 +6,20 @@ layout: default
 ### A Workshop at 2024 IEEE International Conference on Big Data [(IEEE Big Data 2024)](http://bigdataieee.org/BigData2024/)
 December 15th - 18th, 2024, Online (Washington DC, USA)
 
+## Final Programme
+All online - Times are for Washington DC
+
+| Time             | Title                     | Authors        |
+|------------------|---------------------------|----------------|
+| 14\:20 - 14\:30  | Welcome                   | Stephen McGough, Matthew Forshaw and Amir Atapour-Abarghouei |
+| 14\:30 - 15\:00  | Harnessing the Power of Vocal Signals in COVID-19 Detection Utilizing Machine Learning | Aleesa Mann, Ajinkya P. Jadhav, Richard Matovu, and Vibhuti Gupta |
+| 15\:00 - 15\:30  | EHRGPT: Leveraging language models for generating synthetic health records | Giridhar Pamisetty, Subbareddy Batreddy, Priya Verma, and Sobhan Babu Ch |
+| 15\:30 - 16\:00  | An Efficient Modeling Approach for Nurse Rostering Problem: Use Case | Walid Abdelaidoum, Mohamed A. Madani, Larbi Boubchir, and Boubaker Daachi |
+| 16\:00 - 16\:30  | Coffee Break | |
+| 16\:30 - 17\:00  | From Searches to Sneezes: Evaluating Digital Indicators for Allergic Rhinitis Surveillance in the United Kingdom | Krishnamoorthy Manohara, Jorge Roa, Slava Jankin, Hannah Béchara, Jean Bousquet, Paulina Garcia-Corral, and Bernardo Sousa-Pinto |
+| 17\:00 - 17\:30  | Personalized Federated Learning for Gastric Cancer: Adaptive Inference from Large Heterogeneous Piecewise Electronic Health Record Based Biomedical Data | Hengrui Hu, Anai Kothari, and Anjishnu Banerjee | 
+| 17\:30 - 17\:45  | Closing Remarks
+
 ## Online this year
 Dear All, due to personal circumstances we are making this workshop Online this year. We hope this doesn't discourage you from submitting your work.
 
